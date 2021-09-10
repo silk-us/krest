@@ -2,8 +2,8 @@
 
 # krest
 
-The Kaminario REST (krest) is a client library that provides ORM like interface for working with 
-[Kaminario K2](http://kaminario.com/flash-array/) 
+The Silk (formerly Kaminario) REST (krest) is a client library that provides ORM like interface for working with 
+[Kaminario K2](http://silk.us/) 
 REST API.
 
 Krest is written in Python and is aimed to provide rapid enablement of managing
